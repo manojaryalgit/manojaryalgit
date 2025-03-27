@@ -3,11 +3,11 @@
   </a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=131&color=gradient&text=Manoj%20Aryal&textBg=false&section=header&reversal=false&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Manoj%20Aryal&textBg=false&section=header&reversal=false&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="header" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0EA5E9&center=true&width=435&lines=Physics+%26+Data+Science;ML+for+Natural+Sciences;Earthquake+Prediction;LSTM+%26+Neural+Networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0B5800&center=true&width=435&lines=Physics+%26+Data+Science;ML+for+Natural+Sciences;Earthquake+Prediction;LSTM+%26+Neural+Networks" alt="Typing SVG" />
 </h1>
 
 <div align="center">
