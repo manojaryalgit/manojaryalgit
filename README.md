@@ -132,10 +132,6 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
 </div>
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer" alt="footer" />
-</div>
-
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/manojaryalgit/manojaryalgit/output/github-contribution-grid-snake-dark.svg)
 
