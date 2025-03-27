@@ -27,10 +27,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojaryalgit&background=0D1117&stroke=0D1117&ring=0EA5E9&fire=D946EF&currStreakNum=FFFFFF&sideNums=0EA5E9&currStreakLabel=D946EF&sideLabels=0EA5E9&dates=8B5CF6" alt="GitHub Streak" />
-</div>
-
 ## 💡 About Me
 
 ```javascript
@@ -38,7 +34,6 @@ const researcher = {
   name: "Manoj Aryal",
   role: "Physics Graduate | Data Scientist",
   location: "Nepal",
-  education: "B.Sc. Physics, Tribhuvan University",
   interests: ["Machine Learning", "Natural Sciences", "Earthquake Prediction"],
   skills: {
     programming: ["Python", "JavaScript", "HTML", "CSS"],
@@ -47,11 +42,10 @@ const researcher = {
     versionControl: ["Git", "GitHub"]
   },
   researchFocus: "Applying Data Science and Machine Learning to Natural Sciences",
-  funFact: "I developed an LSTM-based model to predict earthquake events in Nepal's Himalayan region!"
 };
 ```
 
-<img align="right" width="300" src="public/lovable-uploads/444833b4-23d3-4283-ba53-dfd322a69efc.png" alt="data science visualization" />
+<img align="right" width="300" src="[public/lovable-uploads/444833b4-23d3-4283-ba53-dfd322a69efc.png](https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png)" alt="data science visualization" />
 
 I'm a passionate Physics graduate specializing in applying Data Science and Machine Learning techniques to solve problems in Natural Sciences. My research focuses on developing predictive models for earthquake events in Nepal's Himalayan region using time-series seismic data.
 
