@@ -91,29 +91,6 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
   </table>
 </div>
 
-## 📚 Research & Publications
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>Prediction of Earthquakes in Nepal using LSTM</strong><br />
-        M ARYAL, RK TIWARI, H PAUDYAL<br />
-        <em>DOI: https://doi.org/10.3126/bmcjsr.v7i1.73058</em><br />
-        Developed an LSTM-based model to predict earthquake events in Nepal's Himalayan region using time-series seismic data.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Comparison of Neural Networks Model in Earthquake Magnitude Predictions</strong><br />
-        M Aryal, B Pd. Sharma, RK Tiwari, H Paudyal<br />
-        <em>Paper under peer review</em><br />
-        Comparing LSTM, Random Forest, XG Boost, and GP Models for earthquake magnitude prediction accuracy.
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -125,25 +102,6 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manojaryalgit&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/manojaryalgit/earthquake-prediction-lstm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojaryalgit&repo=earthquake-prediction-lstm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=D946EF&text_color=FFFFFF" alt="Earthquake Prediction LSTM" />
-  </a>
-  <a href="https://github.com/manojaryalgit/neural-networks-comparison">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojaryalgit&repo=neural-networks-comparison&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=D946EF&text_color=FFFFFF" alt="Neural Networks Comparison" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/manojaryalgit/seismic-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojaryalgit&repo=seismic-data-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=D946EF&text_color=FFFFFF" alt="Seismic Data Analysis" />
-  </a>
-  <a href="https://github.com/manojaryalgit/data-visualization-nepal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojaryalgit&repo=data-visualization-nepal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=D946EF&text_color=FFFFFF" alt="Data Visualization Nepal" />
-  </a>
 </div>
 
 ## 📈 GitHub Contribution Graph
@@ -170,7 +128,7 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
 </div>
 
 <div align="center">
-  <img src="public/lovable-uploads/9d155cb7-b4ba-48d9-a92d-109c0f7eedef.png" alt="footer image" width="100%" />
+  <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="footer image" width="100%" />
 </div>
 
 <div align="center">
