@@ -46,7 +46,7 @@ const researcher = {
 ```
 
 <a href="https://manoj-theta.vercel.app/">
-  <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="footer image" width="100%" />
+  <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="Manoj Aryal Portfolio" width="100%" />
   </a>
 
 I'm a passionate Physics graduate specializing in applying Data Science and Machine Learning techniques to solve problems in Natural Sciences. My research focuses on developing predictive models for earthquake events in Nepal's Himalayan region using time-series seismic data.
@@ -129,11 +129,6 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
   </a>
 </div>
 
-<div align="center">
-  <a href="https://manoj-theta.vercel.app/">
-  <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="footer image" width="100%" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer" alt="footer" />
