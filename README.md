@@ -136,5 +136,8 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer" alt="footer" />
 </div>
 
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/manojaryalgit/manojaryalgit/output/github-contribution-grid-snake-dark.svg)
 
-![snake animation](https://github.com/<seu manojaryalgit>/<seu manojaryalgit>/blob/output/github-contribution-grid-snake2.svg)
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
