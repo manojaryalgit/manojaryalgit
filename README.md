@@ -45,7 +45,9 @@ const researcher = {
 };
 ```
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="data science visualization" />
+<a href="https://manoj-theta.vercel.app/">
+  <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="footer image" width="100%" />
+  </a>
 
 I'm a passionate Physics graduate specializing in applying Data Science and Machine Learning techniques to solve problems in Natural Sciences. My research focuses on developing predictive models for earthquake events in Nepal's Himalayan region using time-series seismic data.
 
@@ -128,7 +130,7 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
 </div>
 
 <div align="center">
-  <a href="https://orcid.org/0009-0008-2460-805X">
+  <a href="https://manoj-theta.vercel.app/">
   <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="footer image" width="100%" />
   </a>
 </div>
