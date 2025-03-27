@@ -3,7 +3,7 @@
   </a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Manoj%20Aryal&textBg=false&section=header&reversal=false&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=131&color=gradient&text=Manoj%20Aryal&textBg=false&section=header&reversal=false&fontAlign=50&fontColor=ffffff&animation=fadeIn" alt="header" />
 </div>
 
 <h1 align="center">
