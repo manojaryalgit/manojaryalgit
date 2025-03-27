@@ -45,7 +45,7 @@ const researcher = {
 };
 ```
 
-<img align="right" width="300" src="[public/lovable-uploads/444833b4-23d3-4283-ba53-dfd322a69efc.png](https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png)" alt="data science visualization" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="data science visualization" />
 
 I'm a passionate Physics graduate specializing in applying Data Science and Machine Learning techniques to solve problems in Natural Sciences. My research focuses on developing predictive models for earthquake events in Nepal's Himalayan region using time-series seismic data.
 
