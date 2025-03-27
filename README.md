@@ -1,3 +1,7 @@
+<a href="https://manoj-theta.vercel.app/">
+  <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="Manoj Aryal Portfolio" width="100%" />
+  </a>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=Manoj%20Aryal&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" alt="header" />
 </div>
@@ -45,9 +49,7 @@ const researcher = {
 };
 ```
 
-<a href="https://manoj-theta.vercel.app/">
-  <img src="https://raw.githubusercontent.com/manojaryalgit/portfolio/refs/heads/main/public/og-image.png" alt="Manoj Aryal Portfolio" width="100%" />
-  </a>
+
 
 I'm a passionate Physics graduate specializing in applying Data Science and Machine Learning techniques to solve problems in Natural Sciences. My research focuses on developing predictive models for earthquake events in Nepal's Himalayan region using time-series seismic data.
 
