@@ -117,7 +117,7 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
 ## 🌏 Connect & Support
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/manojaryalgit">
+  <a href="https://www.buymeacoffee.com/maryalnpy">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <a href="https://www.linkedin.com/in/maryalnp/">
