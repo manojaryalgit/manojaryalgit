@@ -36,7 +36,7 @@
 ```javascript
 const researcher = {
   name: "Manoj Aryal",
-  role: "Physics Graduate | Data Scientist",
+  role: "Physics Graduate | Researcher | ML",
   location: "Nepal",
   interests: ["Machine Learning", "Natural Sciences", "Earthquake Prediction"],
   skills: {
