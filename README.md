@@ -130,10 +130,3 @@ I'm a passionate Physics graduate specializing in applying Data Science and Mach
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate" />
   </a>
 </div>
-
-
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/manojaryalgit/manojaryalgit/output/github-contribution-grid-snake-dark.svg)
-
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
